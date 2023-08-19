@@ -1,0 +1,9 @@
+fastapi==0.101.1
+pydantic==1.10.12
+SQLAlchemy==1.4.32
+starlette==0.17.1
+validators==0.18.2
+uvicorn==0.12.3
+aiofiles==0.6.0
+python-multipart==0.0.5
+jinja2==2.11.2
